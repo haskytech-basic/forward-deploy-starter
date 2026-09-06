@@ -1,0 +1,59 @@
+Student Name,Month,Amount,Status,Payment Date,Method
+Tan Wei Lin,June 2026,280,Paid,2026-06-05,PayNow
+Tan Wei Lin,July 2026,280,Paid,2026-07-03,PayNow
+Tan Wei Lin,August 2026,280,Pending,,
+Muhammad Irfan,June 2026,280,Paid,2026-06-10,Bank Transfer
+Muhammad Irfan,July 2026,280,Paid,2026-07-08,Bank Transfer
+Muhammad Irfan,August 2026,280,Pending,,
+Priya Sharma,June 2026,280,Paid,2026-06-02,PayNow
+Priya Sharma,July 2026,280,Paid,2026-07-01,PayNow
+Priya Sharma,August 2026,280,Paid,2026-08-01,PayNow
+Chua Jun Wei,June 2026,160,Paid,2026-06-12,Cash
+Chua Jun Wei,July 2026,160,Paid,2026-07-15,Cash
+Chua Jun Wei,August 2026,160,Pending,,
+Siti Aisyah,June 2026,280,Paid,2026-06-04,PayNow
+Siti Aisyah,July 2026,280,Overdue,,
+Siti Aisyah,August 2026,280,Pending,,
+Lee Jia Xuan,June 2026,280,Paid,2026-06-06,PayNow
+Lee Jia Xuan,July 2026,280,Paid,2026-07-05,PayNow
+Lee Jia Xuan,August 2026,280,Pending,,
+Arun Krishnan,June 2026,280,Paid,2026-06-01,Bank Transfer
+Arun Krishnan,July 2026,280,Paid,2026-07-02,Bank Transfer
+Arun Krishnan,August 2026,280,Paid,2026-08-03,Bank Transfer
+Wong Kai Wen,July 2026,160,Paid,2026-07-05,Cash
+Wong Kai Wen,August 2026,160,Pending,,
+Chen Yu Ting,June 2026,280,Paid,2026-06-08,PayNow
+Chen Yu Ting,July 2026,280,Overdue,,
+Chen Yu Ting,August 2026,280,Pending,,
+Nurul Hana,June 2026,280,Paid,2026-06-11,Bank Transfer
+Nurul Hana,July 2026,280,Paid,2026-07-10,Bank Transfer
+Nurul Hana,August 2026,280,Pending,,
+Lim Zhi Hao,June 2026,280,Paid,2026-06-03,PayNow
+Lim Zhi Hao,July 2026,280,Paid,2026-07-04,PayNow
+Lim Zhi Hao,August 2026,280,Pending,,
+Kavitha Devi,June 2026,160,Paid,2026-06-07,Cash
+Kavitha Devi,July 2026,160,Overdue,,
+Kavitha Devi,August 2026,160,Pending,,
+Ng Jing Yi,June 2026,280,Paid,2026-06-09,PayNow
+Ng Jing Yi,July 2026,280,Paid,2026-07-06,PayNow
+Ng Jing Yi,August 2026,280,Pending,,
+Harith Danish,June 2026,280,Paid,2026-06-05,PayNow
+Harith Danish,July 2026,280,Paid,2026-07-07,PayNow
+Harith Danish,August 2026,280,Paid,2026-08-02,PayNow
+Goh Si Min,June 2026,280,Paid,2026-06-14,Bank Transfer
+Goh Si Min,July 2026,280,Paid,2026-07-12,Bank Transfer
+Goh Si Min,August 2026,280,Pending,,
+Deepika Rao,June 2026,160,Paid,2026-06-03,Cash
+Deepika Rao,July 2026,160,Paid,2026-07-08,Cash
+Deepika Rao,August 2026,160,Pending,,
+Ong Jia Le,June 2026,280,Overdue,,
+Ong Jia Le,July 2026,280,Overdue,,
+Ong Jia Le,August 2026,280,Pending,,
+Yeo Jun Hao,June 2026,280,Paid,2026-06-06,PayNow
+Yeo Jun Hao,July 2026,280,Paid,2026-07-04,PayNow
+Yeo Jun Hao,August 2026,280,Pending,,
+Ryan Tan,July 2026,160,Paid,2026-07-18,Cash
+Ryan Tan,August 2026,160,Pending,,
+Ananya Pillai,June 2026,280,Paid,2026-06-02,Bank Transfer
+Ananya Pillai,July 2026,280,Paid,2026-07-01,Bank Transfer
+Ananya Pillai,August 2026,280,Paid,2026-08-01,Bank Transfer

@@ -1,0 +1,16 @@
+{
+  "name": "forward-deploy-starter",
+  "private": true,
+  "description": "Forward Deploy Academy starter project: Mdm Lim's tuition centre",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "better-sqlite3": "^11.0.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

@@ -1,0 +1,37 @@
+Name,Age,Class,Subject,Parent Name,Parent Phone,Email,Enrollment Date,Status
+Tan Wei Lin,10,P4,Math,Tan Ah Kow,9123 4567,ahkow.tan@gmail.com,2025-01-15,Active
+Tan Wei Lin,10,P4,English,Tan Ah Kow,9123 4567,ahkow.tan@gmail.com,2025-01-15,Active
+Muhammad Irfan,12,P6,Math,Nurhaliza Bte Ismail,+65 8234 5678,nurhaliza.ismail@yahoo.com,2024-08-20,Active
+Muhammad Irfan,12,P6,Science,Nurhaliza Bte Ismail,+65 8234 5678,nurhaliza.ismail@yahoo.com,2024-08-20,Active
+Priya Sharma,14,Sec 2,Math,Rajesh Sharma,91234567,rajesh.s@hotmail.com,2025-03-01,Active
+Priya Sharma,14,Sec 2,Science,Rajesh Sharma,91234567,rajesh.s@hotmail.com,2025-03-01,Active
+Chua Jun Wei,8,P2,English,Chua Beng Huat,8345 6789,benghuat_chua@gmail.com,2025-06-10,Active
+Siti Aisyah,11,P5,Math,Ahmad Bin Yusof,82345678,ahmad.yusof@gmail.com,2024-11-05,Active
+Siti Aisyah,11,P5,English,Ahmad Bin Yusof,82345678,ahmad.yusof@gmail.com,2024-11-05,Active
+Lee Jia Xuan,9,P3,Chinese,Lee Mei Ling,+6591122334,meiling.lee@outlook.com,2025-02-28,Active
+Lee Jia Xuan,9,P3,Math,Lee Mei Ling,+6591122334,meiling.lee@outlook.com,2025-02-28,Active
+Arun Krishnan,16,Sec 4,Math,Krishnan Nair,9876 5432,krishnan.nair@gmail.com,2024-06-15,Active
+Arun Krishnan,16,Sec 4,Science,Krishnan Nair,9876 5432,krishnan.nair@gmail.com,2024-06-15,Active
+Wong Kai Wen,7,P1,English,Wong Siew Lan,+65 9111 2233,siewlan.wong@gmail.com,2025-07-01,Active
+Chen Yu Ting,13,Sec 1,Math,Chen Wei Ming,8765 4321,weiming.chen@yahoo.com.sg,2025-01-10,Active
+Chen Yu Ting,13,Sec 1,Chinese,Chen Wei Ming,8765 4321,weiming.chen@yahoo.com.sg,2025-01-10,Active
+Nurul Hana,15,Sec 3,English,Zulkifli Bin Osman,92345678,,2024-09-12,Active
+Nurul Hana,15,Sec 3,Math,Zulkifli Bin Osman,92345678,,2024-09-12,Active
+Lim Zhi Hao,10,P4,Math,Lim Kok Wah,8111 2233,kokwah.lim@singnet.com.sg,2025-04-01,Active
+Lim Zhi Hao,10,P4,Science,Lim Kok Wah,8111 2233,kokwah.lim@singnet.com.sg,2025-04-01,Active
+Kavitha Devi,11,P5,Math,Suresh Kumar,+65 9333 4444,suresh.kumar@gmail.com,2024-07-22,Active
+Ng Jing Yi,14,Sec 2,English,Ng Chee Keong,93334444,chee_keong@hotmail.com,2025-05-15,Active
+Ng Jing Yi,14,Sec 2,Chinese,Ng Chee Keong,93334444,chee_keong@hotmail.com,2025-05-15,Active
+Harith Danish,9,P3,Math,Faizal Bin Rahman,8222 3333,faizal.rahman@gmail.com,2025-01-20,Active
+Harith Danish,9,P3,English,Faizal Bin Rahman,8222 3333,faizal.rahman@gmail.com,2025-01-20,Active
+Goh Si Min,12,P6,English,Goh Teck Seng,+6581223344,teckseng.goh@gmail.com,2024-10-30,Active
+Goh Si Min,12,P6,Math,Goh Teck Seng,+6581223344,teckseng.goh@gmail.com,2024-10-30,Active
+Deepika Rao,8,P2,Math,Venkatesh Rao,9444 5555,venkatesh.rao@gmail.com,2025-06-01,Active
+Ong Jia Le,15,Sec 3,Math,Ong Ah Seng,8555 6666,ahseng.ong@yahoo.com,15/03/2025,Active
+Ong Jia Le,15,Sec 3,Science,Ong Ah Seng,8555 6666,ahseng.ong@yahoo.com,15/03/2025,Active
+Farah Nabilah,10,P4,English,Mohd Azmi Bin Hassan,+65 92223333,azmi.hassan@gmail.com,2024-12-01,Inactive
+Yeo Jun Hao,13,Sec 1,Math,Yeo Boon Keng,8666 7777,boonkeng.yeo@gmail.com,2025-03-10,Active
+Yeo Jun Hao,13,Sec 1,Science,Yeo Boon Keng,8666 7777,boonkeng.yeo@gmail.com,2025-03-10,Active
+Ryan Tan,7,P1,Math,Tan Li Hua,9777 8888,lihua.tan88@gmail.com,2025-07-15,Active
+Ananya Pillai,16,Sec 4,English,Sunil Pillai,8888 9999,sunil.pillai@outlook.com,2024-05-20,Active
+Ananya Pillai,16,Sec 4,Math,Sunil Pillai,8888 9999,sunil.pillai@outlook.com,2024-05-20,Active

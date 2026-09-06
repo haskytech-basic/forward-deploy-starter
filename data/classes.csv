@@ -1,0 +1,13 @@
+Day,Time,Subject,Level,Teacher,Room,Max Students
+Monday,16:00-17:30,Math,P3-P4,Ms Chua,Room A,10
+Monday,16:00-17:30,English,P1-P2,Mr Tan,Room B,8
+Monday,18:00-19:30,Math,Sec 1-2,Ms Chua,Room A,10
+Tuesday,16:00-17:30,English,P3-P5,Mr Tan,Room B,10
+Tuesday,16:00-17:30,Science,P5-P6,Dr Lim,Room C,8
+Tuesday,18:00-19:30,Math,Sec 3-4,Ms Chua,Room A,10
+Wednesday,16:00-17:30,Math,P5-P6,Ms Chua,Room A,10
+Wednesday,16:00-17:30,Chinese,P3-P4,Ms Wong,Room B,8
+Thursday,16:00-17:30,English,Sec 1-3,Mr Tan,Room B,10
+Thursday,18:00-19:30,Science,Sec 1-4,Dr Lim,Room C,10
+Saturday,09:00-10:30,Math,P1-P2,Ms Chua,Room A,8
+Saturday,10:30-12:00,Chinese,Sec 1-2,Ms Wong,Room B,8

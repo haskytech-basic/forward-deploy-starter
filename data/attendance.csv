@@ -1,0 +1,121 @@
+Student Name,Class Date,Subject,Status
+Tan Wei Lin,2026-07-14,Math,Present
+Tan Wei Lin,2026-07-14,English,Present
+Tan Wei Lin,2026-07-21,Math,Present
+Tan Wei Lin,2026-07-21,English,Absent
+Tan Wei Lin,2026-07-28,Math,Present
+Tan Wei Lin,2026-07-28,English,Present
+Tan Wei Lin,2026-08-04,Math,Present
+Tan Wei Lin,2026-08-04,English,Present
+Muhammad Irfan,2026-07-15,Math,Present
+Muhammad Irfan,2026-07-15,Science,Present
+Muhammad Irfan,2026-07-22,Math,Present
+Muhammad Irfan,2026-07-22,Science,Present
+Muhammad Irfan,2026-07-29,Math,Present
+Muhammad Irfan,2026-07-29,Science,Absent
+Muhammad Irfan,2026-08-05,Math,Present
+Muhammad Irfan,2026-08-05,Science,Present
+Priya Sharma,2026-07-14,Math,Present
+Priya Sharma,2026-07-14,Science,Present
+Priya Sharma,2026-07-21,Math,Present
+Priya Sharma,2026-07-21,Science,Present
+Priya Sharma,2026-07-28,Math,Present
+Priya Sharma,2026-07-28,Science,Present
+Priya Sharma,2026-08-04,Math,Present
+Priya Sharma,2026-08-04,Science,Present
+Chua Jun Wei,2026-07-14,English,Present
+Chua Jun Wei,2026-07-21,English,Present
+Chua Jun Wei,2026-07-28,English,Absent
+Chua Jun Wei,2026-08-04,English,Present
+Siti Aisyah,2026-07-14,Math,Present
+Siti Aisyah,2026-07-14,English,Absent
+Siti Aisyah,2026-07-21,Math,Absent
+Siti Aisyah,2026-07-21,English,Absent
+Siti Aisyah,2026-07-28,Math,Present
+Siti Aisyah,2026-07-28,English,Present
+Siti Aisyah,2026-08-04,Math,Absent
+Siti Aisyah,2026-08-04,English,Absent
+Lee Jia Xuan,2026-07-16,Chinese,Present
+Lee Jia Xuan,2026-07-14,Math,Present
+Lee Jia Xuan,2026-07-23,Chinese,Present
+Lee Jia Xuan,2026-07-21,Math,Present
+Lee Jia Xuan,2026-07-30,Chinese,Absent
+Lee Jia Xuan,2026-07-28,Math,Present
+Lee Jia Xuan,2026-08-06,Chinese,Present
+Lee Jia Xuan,2026-08-04,Math,Present
+Arun Krishnan,2026-07-15,Math,Present
+Arun Krishnan,2026-07-17,Science,Present
+Arun Krishnan,2026-07-22,Math,Present
+Arun Krishnan,2026-07-24,Science,Present
+Arun Krishnan,2026-07-29,Math,Present
+Arun Krishnan,2026-07-31,Science,Present
+Arun Krishnan,2026-08-05,Math,Present
+Arun Krishnan,2026-08-07,Science,Present
+Chen Yu Ting,2026-07-14,Math,Present
+Chen Yu Ting,2026-07-16,Chinese,Present
+Chen Yu Ting,2026-07-21,Math,Late
+Chen Yu Ting,2026-07-23,Chinese,Present
+Chen Yu Ting,2026-07-28,Math,Absent
+Chen Yu Ting,2026-07-30,Chinese,Absent
+Chen Yu Ting,2026-08-04,Math,Late
+Chen Yu Ting,2026-08-06,Chinese,Present
+Nurul Hana,2026-07-17,English,Present
+Nurul Hana,2026-07-14,Math,Present
+Nurul Hana,2026-07-24,English,Present
+Nurul Hana,2026-07-21,Math,Present
+Nurul Hana,2026-07-31,English,Present
+Nurul Hana,2026-07-28,Math,Absent
+Nurul Hana,2026-08-07,English,Present
+Nurul Hana,2026-08-04,Math,Present
+Lim Zhi Hao,2026-07-14,Math,Present
+Lim Zhi Hao,2026-07-15,Science,Present
+Lim Zhi Hao,2026-07-21,Math,Present
+Lim Zhi Hao,2026-07-22,Science,Present
+Lim Zhi Hao,2026-07-28,Math,Present
+Lim Zhi Hao,2026-07-29,Science,Present
+Lim Zhi Hao,2026-08-04,Math,Present
+Lim Zhi Hao,2026-08-05,Science,Present
+Kavitha Devi,2026-07-14,Math,Absent
+Kavitha Devi,2026-07-21,Math,Absent
+Kavitha Devi,2026-07-28,Math,Present
+Kavitha Devi,2026-08-04,Math,Absent
+Ng Jing Yi,2026-07-17,English,Present
+Ng Jing Yi,2026-07-19,Chinese,Present
+Ng Jing Yi,2026-07-24,English,Present
+Ng Jing Yi,2026-07-26,Chinese,Present
+Ng Jing Yi,2026-07-31,English,Absent
+Ng Jing Yi,2026-08-02,Chinese,Present
+Ng Jing Yi,2026-08-07,English,Present
+Ng Jing Yi,2026-08-09,Chinese,Present
+Harith Danish,2026-07-14,Math,Present
+Harith Danish,2026-07-14,English,Present
+Harith Danish,2026-07-21,Math,Present
+Harith Danish,2026-07-21,English,Present
+Harith Danish,2026-07-28,Math,Present
+Harith Danish,2026-07-28,English,Present
+Harith Danish,2026-08-04,Math,Present
+Harith Danish,2026-08-04,English,Present
+Goh Si Min,2026-07-14,English,Late
+Goh Si Min,2026-07-16,Math,Present
+Goh Si Min,2026-07-21,English,Present
+Goh Si Min,2026-07-23,Math,Present
+Goh Si Min,2026-07-28,English,Absent
+Goh Si Min,2026-07-30,Math,Present
+Goh Si Min,2026-08-04,English,Present
+Goh Si Min,2026-08-06,Math,Present
+Ong Jia Le,2026-07-14,Math,Absent
+Ong Jia Le,2026-07-17,Science,Absent
+Ong Jia Le,2026-07-21,Math,Absent
+Ong Jia Le,2026-07-24,Science,Present
+Ong Jia Le,2026-07-28,Math,Present
+Ong Jia Le,2026-07-31,Science,Absent
+Ong Jia Le,2026-08-04,Math,Absent
+Ong Jia Le,2026-08-07,Science,Absent
+Yeo Jun Hao,2026-07-14,Math,Present
+Yeo Jun Hao,2026-07-15,Science,Present
+Yeo Jun Hao,2026-07-21,Math,Present
+Yeo Jun Hao,2026-07-22,Science,Present
+Yeo Jun Hao,2026-07-28,Math,Late
+Yeo Jun Hao,2026-07-29,Science,Present
+Yeo Jun Hao,2026-08-04,Math,Present
+Yeo Jun Hao,2026-08-05,Science,Present
