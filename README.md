@@ -1,15 +1,15 @@
 # Forward Deploy Starter — Lim's Learning Hub
 
 The project folder for Forward Deploy Academy's online edition. It holds Mdm Lim's
-tuition-centre data and the instructions your AI building partner reads before it
-does anything. You build the application; the AI writes the code; your `spec.md`
+tuition-centre data and the instructions the coding agent reads before it
+does anything. You build the application; the coding agent writes the code; your `spec.md`
 drives it.
 
 ## What you need
 
 - Node.js 20 or newer (`node --version`)
 - git
-- One AI coding tool on your machine:
+- One coding agent on your machine:
   - Claude Code: `npm install -g @anthropic-ai/claude-code`
   - or Codex: `npm install -g @openai/codex`
 
@@ -23,7 +23,7 @@ npm install
 
 ## Work
 
-1. Open a terminal in this folder and start your AI tool: `claude` (or `codex`).
+1. Open a terminal in this folder and start your coding agent: `claude` (or `codex`).
 2. Say what Mdm Lim's problem is in your own words. Ask it to run the
    design-build-loop with you. The result is `spec.md` in this folder.
 3. When the spec is done, ask it to plan the build against `spec.md`, then build.
@@ -37,7 +37,8 @@ The course tells you when to send what.
 
 | Path | What it is |
 |------|------------|
-| `CLAUDE.md` | The instructions the AI reads: the scenario, the design-build-loop, the stack |
+| `CLAUDE.md` | The instructions the coding agent reads: the scenario, the design-build-loop, the stack. Claude Code reads this file |
+| `AGENTS.md` | The same instructions, word for word. Codex reads this file |
 | `data/students.csv` | 25 students, classes, parent contacts |
 | `data/classes.csv` | The weekly timetable |
 | `data/payments.csv` | Three months of payments |
