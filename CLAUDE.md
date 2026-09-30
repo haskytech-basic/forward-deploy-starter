@@ -108,6 +108,9 @@ Use these. They are already declared in `package.json`:
 
 Conventions:
 - Entry point is `server.js`, started with `npm start`, listening on port 3000.
+- In the hosted Workbench the learner sees the app in the App tab, which starts
+  `npm start` itself; tell them to open the App tab, never a localhost address. On
+  their own machine, `npm start` then http://localhost:3000.
 - Load the CSVs into SQLite on first start; do not rewrite the CSV files.
 - Use relative URLs in pages and scripts (`api/students`, not
   `http://localhost:3000/api/students`).
